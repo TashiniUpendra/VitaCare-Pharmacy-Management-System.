@@ -1,0 +1,14 @@
+CREATE DATABASE VitaCarePhormacy;
+
+CREATE TABLE Admin
+(
+Admin_ID int Primary Key,
+Admin_Name Varchar (50) NOT NULL
+);
+
+CREATE TABLE Users
+(
+Use_ID int primary key,
+User_Name Varchar(100),
+Password Varchar(10)
+)
