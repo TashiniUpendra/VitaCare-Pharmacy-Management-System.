@@ -64,10 +64,7 @@ FOREIGN KEY (UserID) REFERENCES Users(UserID),
     FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
 )
 
-CREATE TABLE SaleDetauls
-(
-SaleDetailID Int PRIMARY KEU,
-SaleID INT, NOT NULL
+
 
 CREATE TABLE SaleDetails (
     SaleDetailID INT IDENTITY PRIMARY KEY,
