@@ -10,6 +10,6 @@ this is a GUI Course Work in NIBM diploma in software engineering program.
 
 intervirtual course work 💊💊💻
 
-<img width="400" height="280" alt="image" src="[https://github.com/user-attachments/assets/427e0db0-417e-4be2-8f4f-f5e2eec3f90c](https://www.iimtindia.net/Blog/wp-content/uploads/2022/08/pharmaceutical-industry.jpg)" />
+<img width="400" height="280" alt="image" src="https://i.pinimg.com/736x/1b/9e/59/1b9e59fbc81878458dc3652797607782.jpg" />
 
 
