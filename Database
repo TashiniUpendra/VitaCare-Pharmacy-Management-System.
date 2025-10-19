@@ -23,7 +23,7 @@ CREATE TABLE SUPPLIERS
    Address Varchar (40),
 )
 
-CREATE TABLE Products=
+CREATE TABLE Products
 (
   Product_ID Varchar (10) Primary key,
   product_Name Varchar (150),
@@ -34,14 +34,14 @@ CREATE TABLE Products=
 
 
                          
-CREATE TABLE Customers =
+CREATE TABLE Customers 
 (
     CustomerID   INT IDENTITY PRIMARY KEY,
     Phone        NVARCHAR(50),
     Email        NVARCHAR(100)
 );
 
-CREATE TABLE Sales =
+CREATE TABLE Sales 
 (
   SaleID int PRIMARY KEY,
   UserID int NOT NULL,
@@ -54,7 +54,7 @@ CREATE TABLE Sales =
 
 
 
-CREATE TABLE SaleDetails =
+CREATE TABLE SaleDetails 
 (
     SaleID INT IDENTITY PRIMARY KEY,
     BatchID      INT NOT NULL,     
