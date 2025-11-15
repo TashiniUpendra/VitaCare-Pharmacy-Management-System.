@@ -55,3 +55,9 @@ CREATE TABLE SaleDetails (
     FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );
 
+Create Table Sale details 
+(
+saledetailID INT Not Null,
+Sale Id int not null,
+>
+
